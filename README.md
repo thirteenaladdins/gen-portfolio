@@ -1,0 +1,1 @@
+A simple portfolio I wanted to be build for my generative art. 
