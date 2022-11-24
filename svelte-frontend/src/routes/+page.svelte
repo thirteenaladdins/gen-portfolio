@@ -10,7 +10,7 @@
     <a href="https://github.com/thirteenaladdins">Github</a>
     <a href="/Shop">Shop</a>
 </div>
-
+    
 <style>
     .container {
         display: flex;
